@@ -1,0 +1,2 @@
+sudo apt-get install libsm6 libxrender1 libfontconfig1 libice6 libarchive13 tesseract-ocr tesseract-ocr-hin tesseract-ocr-mar tesseract-ocr-ben tesseract-ocr-guj tesseract-ocr-pan tesseract-ocr-tam tesseract-ocr-tel tesseract-ocr-kan tesseract-ocr-eng tesseract-ocr-spa tesseract-ocr-rus tesseract-ocr-por tesseract-ocr-ita tesseract-ocr-fra tesseract-ocr-nep
+pip install -r requirements.txt
